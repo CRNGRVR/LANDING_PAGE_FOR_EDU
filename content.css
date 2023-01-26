@@ -1,0 +1,67 @@
+
+
+#content{
+   margin-left: 140px;
+   margin-top: 68px;
+
+   display: grid;
+   grid-template-columns: 1fr auto 1fr;
+}
+
+#texts{
+    width: 522px;
+    height: 285px;
+
+    margin-bottom: 48px;
+}
+#bigtext{
+    font-size: 74px;
+    font-family: Montserrat;
+    font-weight: 800;
+
+    margin-bottom: 35px;
+}
+#smalltext{
+    color: #544837;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+
+#signupfree{
+    width: 255px;
+    height: 56px;
+    background-color: #3A5AFF;
+    border-radius: 4px;
+}
+#signupfree_text{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: Montserrat;
+    font-weight: 800;
+
+    text-align: center;
+    width: 255px;
+    padding-top: 17px;
+}
+
+
+#img{
+    width: 495px;
+    height: 437px;
+}
+
+#downl_app_buttons{
+    width: 254px;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr
+}
+#downl_text{
+    margin-top: 48px;
+    margin-bottom: 16px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: bold;
+}
